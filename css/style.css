@@ -1,0 +1,15 @@
+#bliss-map {
+    position: relative;
+    opacity: 0;
+}
+
+.canvas {
+    position: absolute;
+}
+
+#top,
+#left,
+#bottom,
+#right {
+    cursor: pointer;
+}
